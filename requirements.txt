@@ -1,3 +1,2 @@
-issue following command in terminal to install the python request library:
 
 sudo pip3 install requests
