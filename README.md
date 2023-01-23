@@ -1,17 +1,16 @@
 # GHWF_Team_Practice
 
 Contributers:
-Ben Coleman,
-Alexander Flores Sosa,
 Bryan Cohen,
 Edwin Cojitambo,
-Evan Toyberg,
-Jack Wagner,
-Justin Szaro,
-Kyle Smilon,
+Ben Coleman,
+Tanishq Iyer, 
 Nikolas Kovacs,
 Edgar Perez,
+Kyle Smilon,
+Alexander Flores Sosa,
 Reed Sturza,
-Tanishq Iyer,
-Tyler Valentine
-
+Justin Szaro,
+Evan Toyberg,
+Tyler Valentine,
+Jack Wagner
