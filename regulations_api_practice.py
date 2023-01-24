@@ -33,6 +33,7 @@ def main():
 
     print("dockets = %s\ndocuments = %s" % (dockets, documents))
     print("Comments = " + str(comments))
+    print("Edwin has made a change within regulations")
 
 if __name__ == "__main__":
     main()
