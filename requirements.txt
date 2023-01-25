@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 sudo pip3 install requests
+pytest==3.2.2
+flask
+
+>>>>>>> 89e2e5a354c8ef2c8628bfd8ed2044ff97508cc7
