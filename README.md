@@ -1,6 +1,5 @@
 # GHWF_Team_Practice
 <<<<<<< HEAD
-
 Contributers:
 Bryan Cohen,
 Edwin Cojitambo,
