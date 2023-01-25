@@ -1,4 +1,5 @@
 # GHWF_Team_Practice
+<<<<<<< HEAD
 
 Contributers:
 Bryan Cohen,
@@ -14,3 +15,4 @@ Justin Szaro,
 Evan Toyberg,
 Tyler Valentine,
 Jack Wagner
+>>>>>>> 89e2e5a354c8ef2c8628bfd8ed2044ff97508cc7
